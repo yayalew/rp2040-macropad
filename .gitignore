@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# KiCad local/user artifacts
+*.kicad_prl
+*.kicad_pro-bak
+*-backups/
