@@ -58,9 +58,12 @@ RP2040 interfaces with:
 
 ![PCB Bottom](images/pcb-bottom.png)
 
-### 3D Render
+### 3D Renders
 
-![3D Render](images/3d-render.png)
+![3D Render Top](images/render%20top.png)
+
+![3D Render Bottom](images/render%20bottom.png)
+
 
 ## Firmware
 
