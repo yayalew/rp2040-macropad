@@ -61,6 +61,14 @@ RP2040 interfaces with:
 
 ![3D Render Bottom](images/render%20bottom.png)
 
+## Enclosure
+
+![Enclosure](images/image_2026-11-16_164746936.png)
+
+![Enclosure](images/image_2026-11-16_164800810.png)
+
+![Enclosure](images/image_2026-11-16_164819685.png)
+
 
 ## Firmware
 
