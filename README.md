@@ -24,11 +24,8 @@ has not yet begun.
 
 **Hardware:** In development  
 **PCB Revision:** v0.1  
-**Firmware:** Not started  
+**Firmware:** In Progress
 **Manufacturing:** Not yet validated
-
-> This is an in-development hardware design and has not yet been validated
-> through production assembly or full hardware bring-up.
 
 ## Hardware
 
@@ -67,7 +64,7 @@ RP2040 interfaces with:
 
 ## Firmware
 
-Firmware has not yet been implemented.
+Firmware has not yet been completed.
 
 Planned functionality includes:
 
@@ -92,7 +89,4 @@ Potential firmware platforms include the Pico SDK and QMK.
 - [x] SWD debugging interface
 - [x] PCB layout
 - [x] Design-rule review
-- [ ] Prototype fabrication
-- [ ] Hardware bring-up
-- [ ] Firmware development
-- [ ] Enclosure design
+- [ ] Firmware - IN DEVELOPMENT 
