@@ -25,7 +25,7 @@ has not yet begun.
 **Hardware:** In development  
 **PCB Revision:** v0.1  
 **Firmware:** In Progress
-**Manufacturing:** Not yet validated
+**Manufacturing:** 5 units in hand 
 
 ## Hardware
 
